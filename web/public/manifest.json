@@ -1,0 +1,15 @@
+{
+	"name": "Curso Popular de Redação Carolina Maria de Jesus",
+	"short_name": "CMJ",
+	"start_url": ".",
+	"display": "standalone",
+	"background_color": "#eee2d2",
+	"description": "O Curso Popular de Redação tem o intuito de promover a democratização do acesso às universidades para que estudantes escrevam suas próprias histórias.",
+	"icons": [
+		{
+			"src": "images/Favicon.svg",
+			"sizes": "64x64",
+			"type": "image/svg"
+		}
+	]
+}
