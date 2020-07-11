@@ -2,7 +2,7 @@
   <a href="" rel="noopener">
  <img src="./web/public/images/Orbis.png" alt="Logo"></a>
 </p>
-<h3 align="center">Hackathon Campus Party</h3>
+<h3 align="center">Projeto Orbis</h3>
 
 <div align="center">
 
@@ -12,7 +12,7 @@
 
 ---
 
-<p align="center"> Few lines describing your project.
+<p align="center"> Abaixo está um pouco sobre nosso projeto.
     <br> 
 </p>
 
