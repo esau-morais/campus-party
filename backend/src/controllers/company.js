@@ -25,10 +25,6 @@ module.exports = {
       return response.status(400).send({error: 'Error creating new Company'})
     }
          
-  },
-
-  async test (request, response){ 
-    return response.json({message: 'test'})
   }
 
 }
