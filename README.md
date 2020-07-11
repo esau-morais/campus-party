@@ -20,7 +20,6 @@
 
 - [Problema/Desafio](#problem_statement)
 - [Ideia/Solução](#idea)
-- [Roadmap](#future_scope)
 - [Stacks](#tech_stack)
 - [Equipe](#authors)
 - [Agradecimentos](#acknowledgments)
