@@ -2,6 +2,7 @@ import React from "react";
 import styled from "styled-components";
 
 import { Section, Title, SubTitle, Col } from "../../components/main";
+import ImgCarousel from "../../components/Sobre";
 
 const Image = styled.div`
 	width: 100%;
@@ -17,13 +18,7 @@ const SectionThree = () => {
 		<Section id="sobre" primary="true" secondary="true">
 			<Col>
 				<Title primary="true">Sobre</Title>
-				<SubTitle primary="true">
-					Lorem Ipsum is simply dummy text of the printing and typesetting
-					industry. Lorem Ipsum has been the industry's standard dummy text ever
-					since the 1500sLorem Ipsum. Lorem Ipsum is simply dummy text of the
-					printing and typesetting industry. Lorem Ipsum has been the industry's
-					standard dummy text ever since the 1500sLorem Ipsum.
-				</SubTitle>
+				<ImgCarousel />
 			</Col>
 			<Col>
 				<Image />

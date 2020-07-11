@@ -16,11 +16,14 @@ const SectionOne = () => {
 	return (
 		<Section id="home" primary="true">
 			<Col>
-				<Title>lorem ipsum</Title>
+				<Title>Orbis</Title>
 				<SubTitle>
-					Lorem Ipsum is simply dummy text of the printing and typesetting
-					industry. Lorem Ipsum has been the industry's standard dummy text ever
-					since the 1500s
+					O projeto Orbis é uma solução com o objetivo de auxiliar através de
+					consultorias para as empresas implementarem o ODS 17 que é núcleo que
+					liga todos os ODS e trata das parcerias e implementações, conseguindo
+					assim impactar a sociedade, o meio ambiente e proporcionar as
+					vantagens que as empresas necessitam para se adequar a esse novo
+					mercado moderno.
 				</SubTitle>
 				<Button to="analise">Faça sua análise</Button>
 			</Col>

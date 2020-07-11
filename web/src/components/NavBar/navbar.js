@@ -1,14 +1,14 @@
 import React from "react";
 
-import { Nav, Logo, Item } from "./main";
+import { Nav, Logo } from "./main";
 import Burger from "./burger";
 
 const NavBar = () => {
 	return (
 		<Nav>
-			<Item href="#">
+			<a href="/">
 				<Logo />
-			</Item>
+			</a>
 			<Burger />
 		</Nav>
 	);

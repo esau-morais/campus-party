@@ -11,7 +11,12 @@ const breakPoints = [
 
 function ImgCarousel() {
 	return (
-		<Carousel breakPoints={breakPoints}>
+		<Carousel
+			breakPoints={breakPoints}
+			showArrows={false}
+			enableAutoPlay={true}
+			autoPlaySpeed={3000}
+		>
 			{Images.map((image) => (
 				<div key={image.id}>
 					<img src={image.img_url} alt="Imagem" />

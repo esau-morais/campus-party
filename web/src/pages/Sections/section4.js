@@ -12,9 +12,18 @@ const Image = styled.div`
 	animation: fadeInOpacity 300ms ease-in;
 `;
 
+const Bg = styled(Section)`
+	background: url("/images/Bg 4.png") no-repeat;
+
+	@media (max-width: 980px) {
+		background: unset;
+		background-color: #4bbde2;
+	}
+`;
+
 const SectionFour = () => {
 	return (
-		<Section id="vantagens" primary="true">
+		<Bg id="vantagens" primary="true">
 			<Col>
 				<Title>Vantagens</Title>
 				<SubTitle>
@@ -28,7 +37,7 @@ const SectionFour = () => {
 			<Col>
 				<Image />
 			</Col>
-		</Section>
+		</Bg>
 	);
 };
 

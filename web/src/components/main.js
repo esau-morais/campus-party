@@ -22,7 +22,7 @@ export const Section = styled.div`
 
 export const Main = styled.div`
 	height: calc(100% - 0%);
-	background-color: #4bbde2;
+	background: url("/images/Bg.png") no-repeat;
 
 	@media (max-width: 980px) {
 		height: auto;

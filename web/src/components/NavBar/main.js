@@ -8,13 +8,18 @@ export const Nav = styled.nav`
 	display: flex;
 	align-items: center;
 	justify-content: space-evenly;
+
+	@media (max-width: 980px) {
+		justify-content: space-between;
+	}
 `;
 
 export const Logo = styled.div`
-	margin: 0 0 0 1em;
-	width: 182px;
-	height: 102.92px;
-	background: url("/images/Logo.svg");
+	width: 167px;
+	height: 167px;
+	background: url("/images/Orbis.png");
+	background-position: center center;
+	background-size: contain;
 `;
 
 /* Styled SideBar */

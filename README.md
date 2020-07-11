@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img src="https://i.imgur.com/AZ2iWek.png" alt="Logo"></a>
+ <img src="./web/public/images/Orbis.png" alt="Logo"></a>
 </p>
 <h3 align="center">Hackathon Campus Party</h3>
 
@@ -31,7 +31,7 @@
 
 ## 💡 Ideia/Solução <a name = "idea"></a>
 
-## 🚀 Roadmap <a name = "future_scope"></a>
+O projeto Orbis é uma solução com o objetivo de auxiliar através de consultorias para as empresas implementarem o ODS 17 que é núcleo que liga todos os ODS e trata das parcerias e implementações, conseguindo assim impactar a sociedade, o meio ambiente e proporcionar as vantagens que as empresas necessitam para se adequar a esse novo mercado moderno.
 
 ## ⛏️ Stacks <a name = "tech_stack"></a>
 

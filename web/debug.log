@@ -1,0 +1,4 @@
+[0711/101100.182:ERROR:process_info.cc(329)] VirtualQueryEx: Acesso negado. (0x5)
+[0711/101100.206:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0711/101100.206:ERROR:process_memory_win.cc(39)] Failed to initialize ProcessInfo.
+[0711/101100.206:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Tentou-se acessar um processo de saída. (0xc000010a)

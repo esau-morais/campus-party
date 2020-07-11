@@ -9,11 +9,10 @@ const SectionTwo = () => {
 			<Col>
 				<Title primary="true">O que são ODS?</Title>
 				<SubTitle primary="true">
-					Lorem Ipsum is simply dummy text of the printing and typesetting
-					industry. Lorem Ipsum has been the industry's standard dummy text ever
-					since the 1500sLorem Ipsum. Lorem Ipsum is simply dummy text of the
-					printing and typesetting industry. Lorem Ipsum has been the industry's
-					standard dummy text ever since the 1500sLorem Ipsum.
+					Os Objetivos de Desenvolvimento Sustentável (ODS) são uma agenda
+					mundial adotada durante a Cúpula das Nações Unidas sobre o
+					Desenvolvimento Sustentável em setembro de 2015 composta por 17
+					objetivos e 169 metas a serem atingidos até 2030.
 				</SubTitle>
 			</Col>
 			<Col>

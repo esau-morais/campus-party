@@ -44,47 +44,10 @@ const Global = createGlobalStyle`
     color: #FFF
   }
 
-	::-webkit-input-placeholder {
-		/* Chrome/Opera/Safari */
-		font-family: Poppins;
-		font-style: normal;
-		font-weight: normal;
-		font-size: 16px;
-		line-height: 28px;
-		color: #1da8d5;
-		opacity: 0.6;
-	}
-	::-moz-placeholder {
-		/* Firefox 19+ */
-		font-family: Poppins;
-		font-style: normal;
-		font-weight: normal;
-		font-size: 16px;
-		line-height: 28px;
-		color: #1da8d5;
-		opacity: 0.6;
-	}
-	:-ms-input-placeholder {
-		/* IE 10+ */
-		font-family: Poppins;
-		font-style: normal;
-		font-weight: normal;
-		font-size: 16px;
-		line-height: 28px;
-		color: #1da8d5;
-		opacity: 0.6;
-	}
-	:-moz-placeholder {
-		/* Firefox 18- */
-		font-family: Poppins;
-		font-style: normal;
-		font-weight: normal;
-		font-size: 16px;
-		line-height: 28px;
-		color: #1da8d5;
-		opacity: 0.6;
-	}
-  
+  .rec-carousel-wrapper {
+    height: unset
+  }
+
   @keyframes fadeInOpacity {
     0% {
       opacity: 0;
