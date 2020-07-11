@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img src="./web/public/images/Orbis.png" alt="Logo"></a>
+ <img src="./web/public/images/Favicon.png" alt="Logo"></a>
 </p>
 <h3 align="center">Projeto Orbis</h3>
 
